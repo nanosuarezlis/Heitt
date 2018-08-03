@@ -1,4 +1,4 @@
-# Heitt
+# Testing React js
 
 If you now run npm run start you should see localhost:8080 open up in your default browser — that’s what the —-open flag is for. Now everytime you make changes, it will refresh the page.
 
